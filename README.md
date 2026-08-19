@@ -72,3 +72,16 @@ After implementation:
 - update documentation if required
 
 Do not start Module 2.
+
+---------------------------------------------
+
+if claude wase time 
+
+Stop broad refactoring.
+
+Focus only on P0 requirements that are still incomplete.
+
+Identify the highest-priority missing functionality and implement it now.
+Keep the implementation minimal.
+
+Build after completing it.
