@@ -1,6 +1,6 @@
-# Space-O Claude Practical Kit
+# Practical Kit
 
-Reusable Claude Code prompt kit for an iOS practical assignment.
+Reusable Claude Code prompt kit for an iOS assignment.
 
 ## Recommended order
 1. 01_START_HERE/00-master-workflow.md

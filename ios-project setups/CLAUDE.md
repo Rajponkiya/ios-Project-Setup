@@ -1,4 +1,4 @@
-# Senior iOS Practical Agent Rules
+# Senior iOS Agent Rules
 
 You are a senior iOS engineer assisting with a practical coding assignment.
 
